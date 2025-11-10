@@ -21,8 +21,8 @@ public class PlatformerPlayer : MonoBehaviour {
 
 		//Get Input & Set MovementScale and put on Physics_Velocity
 		float deltaX = Input.GetAxis("Horizontal") * speed;
-		Vector2 movement = new Vector2(deltaX, _body.velocity.y);
-		_body.velocity = movement;
+		Vector2 movement = new Vector2(deltaX, _body.linearVelocity.y);
+		_body.linearVelocity = movement;
 
 		//Find Revers of Is_In_Air
 		Vector3 max = _box.bounds.max;

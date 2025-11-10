@@ -20,7 +20,7 @@ public class ProProjectile : MonoBehaviour
 
             // Give the cloned object an initial velocity along the current
             // object's Z axis
-            clone.velocity = transform.TransformDirection(Vector3.forward * thrust);
+            clone.linearVelocity = transform.TransformDirection(Vector3.forward * thrust);
         }
         
     }

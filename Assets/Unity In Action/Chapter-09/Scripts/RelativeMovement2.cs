@@ -107,7 +107,7 @@ public class RelativeMovement2 : MonoBehaviour {
 		_contact = hit;
 		Rigidbody body = hit.collider.attachedRigidbody;
  		if (body != null && !body.isKinematic) {
- 			body.velocity = hit.moveDirection * pushForce;
+ 			body.linearVelocity = hit.moveDirection * pushForce;
  		}
 	}
 
