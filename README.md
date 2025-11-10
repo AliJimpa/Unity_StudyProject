@@ -1,4 +1,22 @@
-# UnityCode
+# Unity Learning Project
+
+This repository contains my personal Unity project, where I experiment with features, mechanics, and systems learned from various game development courses.
+
+## 🎯 Purpose
+- Practice and reinforce Unity and C# concepts  
+- Test different gameplay ideas and mechanics  
+- Build a foundation for future game projects
+
+## 🛠️ Tools & Technologies
+- Unity (latest stable version)
+- C#
+- Visual Studio / Rider
+- Various Unity packages and assets
+
+## 🚀 Notes
+This project is primarily for learning and experimentation — expect lots of tests, prototypes, and code snippets from different lessons and tutorials.
+
+# Titles
 Adventure-Class: Institute of Game Iran [teacher(VahabAhmadvand)]
 
 GameDevHQ: Distract box & Lock at Object
