@@ -24,16 +24,10 @@ This project is primarily for learning and experimentation — expect lots of te
 # Titles
 Adventure-Class: Institute of Game Iran [teacher(VahabAhmadvand)] (Course)
 
-GameDevHQ: Distract box & Lock at Object (Youtube)
-
-JuniorProgrammer: all content from Unity course [Link](https://learn.unity.com/pathway/junior-programmer?version=6.0) (Course)
-
-Optimization: sample for Optimization [Link](https://learn.unity.com/course/performance-and-optimisation) (Course)
-
-Resource management simulation: that is UnityLearning (Course)
-
-Unity In Action: all resources for the  book (UnityInAction) (Book)
-
-Unreal_FPS: Implement just a basic FPS shooter (SelfPractice)
-
-Zompi_Sher: a small force Sample (Tutorial)
+- GameDevHQ: Distract box & Lock at Object (Youtube)
+- JuniorProgrammer: all content from Unity course [Link](https://learn.unity.com/pathway/junior-programmer?version=6.0) (Course)
+- Optimization: sample for Optimization [Link](https://learn.unity.com/course/performance-and-optimisation) (Course)
+- Resource management simulation: that is UnityLearning (Course)
+- Unity In Action: all resources for the  book (UnityInAction) (Book)
+- Unreal_FPS: Implement just a basic FPS shooter (SelfPractice)
+- Zompi_Sher: a small force Sample (Tutorial)
