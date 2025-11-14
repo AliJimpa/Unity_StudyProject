@@ -9,7 +9,7 @@ public class CongratScript : MonoBehaviour
     
     public List<string> TextToDisplay;
     
-    private float RotatingSpeed;
+    //private float RotatingSpeed;
     private float TimeToNextText;
 
     private int CurrentText;
@@ -21,7 +21,7 @@ public class CongratScript : MonoBehaviour
         TimeToNextText = 0.0f;
         CurrentText = 0;
         
-        RotatingSpeed = 1.0f;
+        //RotatingSpeed = 1.0f;
 
         TextToDisplay.Add("Congratulation");
         TextToDisplay.Add("All Errors Fixed");

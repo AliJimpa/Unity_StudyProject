@@ -1,6 +1,5 @@
 ﻿using UnityEngine;
 using System.Collections;
-using System.Collections.Generic;
 
 public class AudioManager : MonoBehaviour, IGameManager3 {
 	public ManagerStatus3 status {get; private set;}

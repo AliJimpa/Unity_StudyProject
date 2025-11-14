@@ -1,5 +1,4 @@
 using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class PlayerControllerUs4 : MonoBehaviour
@@ -81,7 +80,7 @@ public class PlayerControllerUs4 : MonoBehaviour
 
     void LaunchRockets()
     {
-        foreach (var enemy in FindObjectsOfType<EnemyUS>())
+        foreach (var enemy in FindObjectsByType<EnemyUS>(0))
         {
             tmpRocket = Instantiate(rocketPrefab, transform.position + Vector3.up,
             Quaternion.identity);
