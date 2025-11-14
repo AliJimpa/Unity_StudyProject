@@ -1,4 +1,4 @@
-# Unity Learning Project
+# Unity Practice Project
 
 This repository contains my personal Unity project, where I experiment with features, mechanics, and systems learned from various game development courses.
 
@@ -16,19 +16,24 @@ This repository contains my personal Unity project, where I experiment with feat
 ## 🚀 Notes
 This project is primarily for learning and experimentation — expect lots of tests, prototypes, and code snippets from different lessons and tutorials.
 
+## Installation
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
+
 # Titles
-Adventure-Class: Institute of Game Iran [teacher(VahabAhmadvand)]
+Adventure-Class: Institute of Game Iran [teacher(VahabAhmadvand)] (Course)
 
-GameDevHQ: Distract box & Lock at Object
+GameDevHQ: Distract box & Lock at Object (Youtube)
 
-JuniorProgrammer: all countent from unity course [Link](https://learn.unity.com/pathway/junior-programmer?version=6.0)
+JuniorProgrammer: all content from Unity course [Link](https://learn.unity.com/pathway/junior-programmer?version=6.0) (Course)
 
-Optimization: sample for Optimization [Link](https://learn.unity.com/course/performance-and-optimisation)
+Optimization: sample for Optimization [Link](https://learn.unity.com/course/performance-and-optimisation) (Course)
 
-Resource management simulation: that is unity course
+Resource management simulation: that is UnityLearning (Course)
 
-Unity In Action : all resource for book (UnityInAction)
+Unity In Action: all resources for the  book (UnityInAction) (Book)
 
-Unreal_FPS: Implement Just basic FPS shooter 
+Unreal_FPS: Implement just a basic FPS shooter (SelfPractice)
 
-Zompi_Sher: a smal force Sample
+Zompi_Sher: a small force Sample (Tutorial)
